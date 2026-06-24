@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="80" fill="#0B0F1A"/>
+  <rect width="512" height="512" rx="80" fill="#6C5CE7" opacity="0.15"/>
+  <!-- A letterform -->
+  <polygon points="256,80 360,400 320,400 256,200 192,400 152,400" fill="#6C5CE7"/>
+  <rect x="185" y="290" width="142" height="36" rx="4" fill="#6C5CE7"/>
+  <!-- Accent line -->
+  <rect x="96" y="420" width="320" height="4" rx="2" fill="#00E5FF" opacity="0.6"/>
+</svg>
